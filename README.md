@@ -21,9 +21,9 @@
 
 **Vision**: This project is aimed at predicting H1-B visa applicants probability of getting their visa approved based on the previous H1-B filings. The project has been inspired by international students at Northwestern who are thinking about working in the US after graduation. H1-B is very important for these students and anyone applying for this visa because H1-B allows immigrants to be able to live and work in the US legally while they apply for permanent residency. While it is necessary to have H1-B visa, it is very hard to file, and it is even harder to refile after a rejection. This project will help make cases stronger before filing for H1-B visa, and check what the chances are before filing.
 
-**Mission**: A predictive model will be built using the previous H1-B visa applications data. The model will be used to predict how likely each filing is likely to succeed. The users will be able to use the model by inputting their filing data, expected filing data, or using an interactive website to see what their chances are.
+**Mission**: A predictive model will be built using the previous H1-B visa applications data. The model will be used to predict how likely each filing is likely to succeed. The users will be able to use the model that will be called by a website. Users will be able to input their filing data and possible filing options in an interactive website to see what their chances are of getting an approval.
 
-**Success criteria**: The success criteria will be determined by two different factors. First, by how easy it is for users to interact with the website and get the predictions that they want in meaningful time. Second factor is how accurate the model is for predicting the filing approval odds. <br/>
+**Success criteria**: The success criteria will be determined by two different factors. First, by how easy it is for users to interact with the website and get the predictions that they want in meaningful time. The website and model should work seamlessly and should not break easily. Second factor is how accurate the model is for predicting the filing approval odds. The classification success rate should be above 70% where success is defined as getting the approval and rejection correctly.  <br/>
 
 ## Project Backlog
 
