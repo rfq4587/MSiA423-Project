@@ -23,14 +23,13 @@
 
 **Mission**: Mission: What? What will be done to achieve this purpose. A predictive model will be built using the previous H1-B visa applications data. The model will be used to predict how likely each filing is likely to succeed. The users will be able to use the model by inputting their filing data, expected filing data, or using an interactive website to see what their chances are.
 
-**Success criteria**: The success criteria will be determined by two different factors. First, by how easy it is for users to interact with the website and get the predictions that they want in meaningful time. Second factor is how accurate the model is for predicting the filing approval odds.
+**Success criteria**: The success criteria will be determined by two different factors. First, by how easy it is for users to interact with the website and get the predictions that they want in meaningful time. Second factor is how accurate the model is for predicting the filing approval odds. <br/>
 
 ## Backlog
 
 ### Planning
 
-**Theme**
-Allow users to check different possible filings to see what the chances are of getting their visa approved
+**Theme**: Allow users to check different possible filings to see what the chances are of getting their visa approved
 
 Epic 1: Understand the Problem <br/>
 Story 1: Understand the H1-B filing process in more detail <br/>
@@ -65,8 +64,8 @@ Story 2: Deploy it in the cloud <br/>
 
 ### Icebox
 
-Use a more complex model for higher accuracy
-Provide users with recommendation on how to increase the chances of approval
+Use a more complex model for higher accuracy <br/>
+Provide users with recommendation on how to increase the chances of approval <br/>
 
 ## Repo structure
 
