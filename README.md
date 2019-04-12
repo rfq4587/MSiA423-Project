@@ -51,15 +51,15 @@ Epic 5: Website Implementation <br/>
 
 ### Backlog
 
-1. Research.H1-B Process (2 points)
-2. Research.Refiling H1-B (1 point)
-3. Data.Find and Download from Kaggle (1 point)
-4. Data.EDA (4 points)
-5. Feature.Clutering (3 points)
+1. Research.H1-B Process (2 points) - Planning
+2. Research.Refiling H1-B (1 point) - Planning
+3. Data.Find and Download from Kaggle (1 point) - Planning
+4. Data.EDA (4 points) - Planning
+5. Feature.Clutering (4 points)
 6. Feature.Hot-Encoding (2 points)
 7. Modeling (8 points)
-8. Website.Flask (3 points)
-9. Website.Hosting (6 points)
+8. Website.Flask (4 points)
+9. Website.Hosting (8 points)
 
 
 ### Icebox
