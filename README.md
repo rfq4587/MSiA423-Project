@@ -32,22 +32,22 @@
 **Theme**: Allow users to check different possible filings to see what the chances are of getting their visa approved
 
 Epic 1: Understand the Problem <br/>
-Story 1: Understand the H1-B filing process in more detail <br/>
-Story 2: Do more research on how hard it is to file and refile for H1-B <br/>
+  Story 1: Understand the H1-B filing process in more detail <br/>
+  Story 2: Do more research on how hard it is to file and refile for H1-B <br/>
 
 Epic 2: Data Collection and Exploration <br/>
-Story 1: Downloading and loading the data from Kaggle <br/>
-Story 2: Checking for outliers and performing EDA <br/>
+  Story 1: Downloading and loading the data from Kaggle <br/>
+  Story 2: Checking for outliers and performing EDA <br/>
 
 Epic 3: Feature Engineering <br/>
-Story 1: Cluster by company size/industry or school prestige <br/>
-Story 2: Hot-encoding by 1 for modeling <br/>
+  Story 1: Cluster by company size/industry or school prestige <br/>
+  Story 2: Hot-encoding by 1 for modeling <br/>
 
 Epic 4: Modeling
 
 Epic 5: Website Implementation <br/>
-Story 1: Create a website using Flask <br/>
-Story 2: Deploy it in the cloud <br/>
+  Story 1: Create a website using Flask <br/>
+  Story 2: Deploy it in the cloud <br/>
 
 ### Backlog
 
