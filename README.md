@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Project Charter](#project-charter)
-- [Backlog](#back-log)
+- [Project Backlog](#project-backlog)
 - [Repo structure](#repo-structure)
 - [Documentation](#documentation)
 - [Running the application](#running-the-application)
@@ -25,7 +25,7 @@
 
 **Success criteria**: The success criteria will be determined by two different factors. First, by how easy it is for users to interact with the website and get the predictions that they want in meaningful time. Second factor is how accurate the model is for predicting the filing approval odds. <br/>
 
-## Backlog
+## Project Backlog
 
 ### Planning
 
