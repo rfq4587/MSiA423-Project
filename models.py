@@ -84,8 +84,8 @@ if __name__ == "__main__":
     engine = create_db()
     #
     #
-    # Session = sessionmaker(bind=engine)
-    # session = Session()
+    Session = sessionmaker(bind=engine)
+    session = Session()
     #
     # test_row = Petition(id="0", status=0, industry="Computer",
     # jobtitle="Software Engineer", fulltime=1, pay=4)
@@ -97,6 +97,6 @@ if __name__ == "__main__":
     #
     # logger.info("Data added")
     #
-    # query = "SELECT * FROM petition"
-    # df = pd.read_sql(query, con=engine)
-    # logger.info(df)
+    query = "SELECT * FROM petition"
+    df = pd.read_sql(query, con=engine)
+    logger.info(df)
