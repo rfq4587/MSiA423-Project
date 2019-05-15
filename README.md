@@ -2,10 +2,16 @@
 
 ## Setting up the environment
 
-SSH into the MSiA 423 server and run the command below:<br>
-conda env create -f hpark.yml<br>
+<br>
+SSH into the MSiA 423 server and clone the repository by running this command:<br>
+git clone -b midproject https://github.com/henrypark133/MSiA423-Project.git
+<br>
+<br>
+
+Run the command below in MSiA 423 server:<br>
+conda env create -f hpark.yml<br><br>
 Activate the conda environment that was created to run the python script:<br>
-conda activate hpark
+conda activate hpark<br>
 
 ## Running the python script
 
