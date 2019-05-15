@@ -2,8 +2,9 @@
 
 ## Setting up the environment
 
-SSH into the MSiA 423 server and run the command below:
+SSH into the MSiA 423 server and run the command below:<br>
 conda env create -f hpark.yml<br>
+Activate the conda environment that was created to run the python script:<br>
 conda activate hpark
 
 ## Running the python script
